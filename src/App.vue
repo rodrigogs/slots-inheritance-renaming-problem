@@ -25,13 +25,3 @@ export default {
   }
 }
 </script>
-
-<style scoped>
-ComponentInheritingSlots {
-  background-color: black;
-}
-
-ComponentInheritingAndRenamingSlots {
-
-}
-</style>
